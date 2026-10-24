@@ -110,4 +110,4 @@ This is an educational portfolio project, not professional financial advice.
 =======
 # Smart-expense-tracker
 A Python-based expense tracker with financial analytics, interactive dashboards, and SQLite storage.
->>>>>>> 90ca5a15ed11ca1374e05e9c92bc3566a2aafd1f
+
