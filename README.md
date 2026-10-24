@@ -1,4 +1,3 @@
-Website Link: https://expense-tracker-by-ibraheem.streamlit.app/
 <<<<<<< HEAD
 # Smart Expense Tracker & Financial Analytics Dashboard
 
@@ -94,24 +93,9 @@ smart-expense-tracker/
 
 The app creates `expense_tracker.db` in the project folder on first launch. The database is excluded from Git by `.gitignore`; your personal transactions should not be committed to GitHub.
 
-## Publish to GitHub
+WEBSITE LINK: Website Link: https://expense-tracker-by-ibraheem.streamlit.app/
 
 If you cloned this repository from GitHub, after adding your project files run:
-
-```powershell
-git status
-git add .
-git commit -m "Build smart expense tracker dashboard"
-git push
-```
-
-If Git asks you to configure your identity, use the name and email associated with your GitHub commits:
-
-```powershell
-git config --global user.name "Your Name"
-git config --global user.email "you@example.com"
-```
-
 ## Possible future improvements
 
 - Edit transactions from the dashboard
@@ -120,8 +104,7 @@ git config --global user.email "you@example.com"
 - Date-range filters
 - Login and multiple user support
 - Deployment to Streamlit Community Cloud
-
-## Disclaimer
+  
 
 This is an educational portfolio project, not professional financial advice.
 =======
