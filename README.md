@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Expense Tracker & Financial Analytics Dashboard
 
 A beginner-friendly Python portfolio project for tracking income and expenses, storing transactions in SQLite, and exploring financial trends in an interactive Streamlit dashboard.
@@ -122,3 +123,7 @@ git config --global user.email "you@example.com"
 ## Disclaimer
 
 This is an educational portfolio project, not professional financial advice.
+=======
+# Smart-expense-tracker
+A Python-based expense tracker with financial analytics, interactive dashboards, and SQLite storage.
+>>>>>>> 90ca5a15ed11ca1374e05e9c92bc3566a2aafd1f
